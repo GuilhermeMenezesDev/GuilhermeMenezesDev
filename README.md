@@ -22,7 +22,7 @@ below are the tecnologies that i´m work with:
 "> clique aqui</a>
 <br>
 <br>
-i´d like to share that i´m studying every day to become a fullstack developer 😃
+
 <br>
 <br>
 <br>
