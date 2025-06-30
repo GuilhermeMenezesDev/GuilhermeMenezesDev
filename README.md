@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 :sunglasses: :computer:
 
  I'm Guilherme Menezes — a Software Engineer passionate about building solutions and exploring new technologies.
 <br>
