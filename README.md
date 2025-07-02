@@ -13,6 +13,11 @@ Here are some of the technologies and tools I work with:
 
 - Database: <img  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/>
 
+- Cloud: <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+- Tools: <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=red"/> <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=dOCKER&logoColor=black"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+- IDE: <img src="https://img.shields.io/badge/vscode-0052CC?style=for-the-badge&logo=&logoColor=white"/>
 
 
  
